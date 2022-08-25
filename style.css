@@ -250,7 +250,7 @@ a.textItem {
   position: absolute;
 }
 
-p.more {
+.more {
   padding: 11px;
   margin-top: 16px;
   text-align: center;
