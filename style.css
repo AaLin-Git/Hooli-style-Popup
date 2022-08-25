@@ -254,10 +254,6 @@ a.textItem {
   position: absolute;
 }
 
-.inline-block {
-  display: inline-block;
-}
-
 .more {
   padding: 11px;
   margin-top: 16px;
