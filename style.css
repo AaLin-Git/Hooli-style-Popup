@@ -179,6 +179,10 @@ p {
   text-transform: none;
 }
 
+.labelSub {
+  display: inline-block;
+}
+
 .labelIcon {
   display: inline-block;
   padding: 5px;
@@ -248,6 +252,10 @@ a.textItem {
 .menuInputSub {
   appearance: none;
   position: absolute;
+}
+
+.inline-block {
+  display: inline-block;
 }
 
 .more {
