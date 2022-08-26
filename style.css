@@ -157,7 +157,7 @@ h1 {
 
 .hiddenNavbar section,
 .hiddenNavbar input {
-  display: none;
+  appearance: none;
 }
 
 .input {
