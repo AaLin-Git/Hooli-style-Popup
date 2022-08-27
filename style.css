@@ -159,8 +159,9 @@ html,
   list-style: none;
 }
 
-.hiddenNavbar section,
-.hiddenNavbar input {
+.menuPopup,
+.menuPopupSub,
+.input {
   appearance: none;
 }
 
